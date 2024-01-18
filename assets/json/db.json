@@ -1,0 +1,122 @@
+{
+  "SongMusis": [
+    {
+      "id": 1,
+      "name": "Senbonzakura - Top 15 Bản Violin Hay Nhất Mọi Thời Đại | EDM Violin TikTok Gây Nghiện Hiện Nay 2022",
+      "singer": "Không xác định",
+      "path": "./assets/music/song1.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 2,
+      "name": "TheFatRat  Monody  Top 15 Bản Violin Hay Nhất Mọi Thời Đại  EDM Violin TikTok Gây Nghiện 2023",
+      "singer": "Không sác định",
+      "path": "./assets/music/song2.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 3,
+      "name": "Melody of the night 2021  TC RemixTrôi ke  Nhạc nền Tik Tok hot Trend  DJ gây nghiện",
+      "singer": "TikTok",
+      "path": "./assets/music/song3.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 4,
+      "name": "Quê Tôi Remix  Thùy Chi  Daz  Hot TikTok",
+      "singer": "Thùy Chi",
+      "path": "./assets/music/song4.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 5,
+      "name": "LK Nhạc Trữ Tình Bolero Remix Tiktok Hay Nhất 2023  Gõ Cửa Trái Tim Hỏi Vợ Ngoại Thành H2K Remix",
+      "singer": "Không xác định",
+      "path": "./assets/music/song5.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 6,
+      "name": "Tình Xưa Nghĩa Cũ Remix Tình Đời Khi Trắng Khi Đen Remix Nhạc Trẻ Remix TikTok Hay Nhất 2023",
+      "singer": "Không xác định",
+      "path": "./assets/music/song6.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 7,
+      "name": "Thiếu Mới Là Đủ Remix",
+      "singer": "Không xác định",
+      "path": "./assets/music/song7.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    },
+    {
+      "id": 8,
+      "name": "Em Ơi Anh Phải Làm Sao Remix",
+      "singer": "Không xác định",
+      "path": "./assets/music/song8.mp3",
+      "images": "./assets/image/dia_nhac.png"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "fullname": "asdsa",
+      "email": "trang@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "fullname": {},
+      "email": {},
+      "password": {}
+    },
+    {
+      "id": 3,
+      "fullname": "sad",
+      "email": "trang123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "fullname": "sad",
+      "email": "qw@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "fullname": "sad",
+      "email": "trang789@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "fullname": "qưerty",
+      "email": "tuan@gmail.com",
+      "password": "ádas"
+    },
+    {
+      "id": 7,
+      "fullname": "qưerty",
+      "email": "tu@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 8,
+      "fullname": "qưerty",
+      "email": "tuan123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 9,
+      "fullname": "qưerty",
+      "email": "tuan789@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 10,
+      "fullname": "qưerty",
+      "email": "tuan456@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
